@@ -1,0 +1,23 @@
+[
+  {
+    "id": "e2d87966-1972-4c97-a438-3d1fe58816c3",
+    "title": "Nikos Issue",
+    "description": "Nikos Trying fastAPI for the first time!!!",
+    "priority": "medium",
+    "status": "open"
+  },
+  {
+    "id": "0880141f-1648-43d6-bd3d-1e2e0a700537",
+    "title": "Issue Two",
+    "description": "This is another test for testing single get issue function",
+    "priority": "medium",
+    "status": "open"
+  },
+  {
+    "id": "3f55132e-275a-4082-a26b-d5bc4d7d8bb8",
+    "title": "Issue Three",
+    "description": "Updated description ONLY",
+    "priority": "medium",
+    "status": "open"
+  }
+]
